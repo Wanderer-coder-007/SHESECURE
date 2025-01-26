@@ -1,1 +1,2 @@
 # SHESECURE
+SheSecure is a comprehensive women safety app designed to provide instant help in emergencies. With a simple shake of the phone, the Shake API triggers an SOS alert, notifying selected contacts via the Notification API and sending real-time messages with the user's location through the Message API. This seamless system ensures quick assistance, offering peace of mind and security anytime, anywhere
